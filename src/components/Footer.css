@@ -1,0 +1,18 @@
+#footerPar #footer #footer_1 {
+    margin-top:20px ;
+    border:  1px solid red;
+}
+.container .row #htkh li {
+    list-style-type: none;
+}
+
+.container .row #cs li {
+    list-style-type: none;
+}
+
+.container .row #tk li {
+    list-style-type: none;
+}
+.container .row{
+    background-image: url("https://vietcetera.com/wp-content/uploads/2019/10/thoi-quen-doc-sach-feature-1.jpg");
+}
