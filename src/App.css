@@ -39,3 +39,27 @@
 .container #footer{
   margin-top: 20px;
 }
+.container .row #icon{
+  float: right;
+ 
+}
+.container .row #inputsearch{
+  float: right;
+  height: 34px;
+  width: 300px;
+  margin-top: 20px;
+}
+
+.container .row ul li{
+list-style-type: none;
+margin-left: 20px;
+font-weight: bold;
+font-size: 18px;
+}
+.container .row ul li a{
+text-decoration: none;
+color: salmon;
+}
+.container .row ul li a:hover{
+  color: brown;
+}
